@@ -1,0 +1,2 @@
+# 8b086dcb089685c93e19160b636b886c
+App id E49CB-D9F9C-8A5AC-AA46E-E74AF, version name - Тест2
